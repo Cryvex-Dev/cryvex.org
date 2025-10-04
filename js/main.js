@@ -2,6 +2,9 @@
 
 // Initialize AOS with optimized settings for speed
 // Global animation tuning: slightly faster & smoother
+console.log("%c🐣 Welcome, curious developer! You've found the Cryvex Easter Egg.", "color:#8b5cf6;font-size:14px;font-weight:bold;");
+
+
 AOS.init({
     duration: 320,
     easing: 'cubic-bezier(0.4, 0, 0.2, 1)',
